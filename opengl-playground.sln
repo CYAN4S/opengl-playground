@@ -11,7 +11,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_vertex_coloring", "03_ve
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_texture", "04_texture\04_texture.vcxproj", "{A7BD2E5B-E886-452E-9B8C-75C6B8CF0767}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_triceratops_wireframe", "06_triceratops_wireframe\06_triceratops_wireframe.vcxproj", "{426BA12F-A936-495C-A7A7-41CE9C621D13}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_triceratops_wireframe", "05_triceratops_wireframe\05_triceratops_wireframe.vcxproj", "{426BA12F-A936-495C-A7A7-41CE9C621D13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

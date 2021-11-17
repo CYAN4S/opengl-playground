@@ -126,7 +126,7 @@ int main()
     glBindBuffer(GL_ARRAY_BUFFER, 0);
 
     // 와이어프레임 시 주석 해제
-    glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
+    // glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
 
     // render loop
     // -----------
